@@ -1,4 +1,6 @@
 *.password
+*.swp
+config.py
 
 # Created by https://www.gitignore.io/api/python
 
